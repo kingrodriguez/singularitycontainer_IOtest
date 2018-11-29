@@ -1,0 +1,36 @@
+###<<<<<<<host>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.020s
+user	0m0.016s
+sys	0m0.004s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.017s
+user	0m0.014s
+sys	0m0.003s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.027s
+user	0m0.027s
+sys	0m0.000s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.124s
+user	0m0.124s
+sys	0m0.000s
+<<<<<<<10MB>>>>>>>
+
+real	0m1.099s
+user	0m1.095s
+sys	0m0.003s
+<<<<<<<100MB>>>>>>>
+
+real	0m10.828s
+user	0m10.783s
+sys	0m0.037s
+<<<<<<<1GB>>>>>>>
+
+real	1m45.613s
+user	1m45.384s
+sys	0m0.153s

@@ -1,0 +1,36 @@
+###<<<<<<<solo>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.062s
+user	0m0.017s
+sys	0m0.043s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.019s
+user	0m0.015s
+sys	0m0.003s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.029s
+user	0m0.022s
+sys	0m0.006s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.137s
+user	0m0.133s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m1.161s
+user	0m1.154s
+sys	0m0.007s
+<<<<<<<100MB>>>>>>>
+
+real	0m11.762s
+user	0m11.692s
+sys	0m0.020s
+<<<<<<<1GB>>>>>>>
+
+real	1m54.193s
+user	1m53.877s
+sys	0m0.227s

@@ -1,0 +1,23 @@
+Bootstrap: docker
+From: ubuntu:18.10
+
+%help
+	Ubuntu 18.10; performance measure I/O;
+
+%setup
+
+%files
+
+%labels
+	Maintainer: ~
+	Version: 1.0
+
+%enviroment
+
+%post
+	apt-get -y update
+	apt-get -y upgrade
+	apt-get -y install python3
+	echo 'export VMID=6' >> $SINGULARITY_ENVIRONMENT
+%runscript
+~/singularity/scripts/runallmeasurements.sh

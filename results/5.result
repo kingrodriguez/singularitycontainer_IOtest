@@ -1,0 +1,432 @@
+###<<<<<<<host>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.021s
+user	0m0.021s
+sys	0m0.000s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.018s
+user	0m0.018s
+sys	0m0.000s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.032s
+user	0m0.032s
+sys	0m0.000s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.134s
+user	0m0.129s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m1.093s
+user	0m1.083s
+sys	0m0.007s
+<<<<<<<100MB>>>>>>>
+
+real	0m10.809s
+user	0m10.767s
+sys	0m0.030s
+<<<<<<<1GB>>>>>>>
+
+real	1m53.979s
+user	1m53.281s
+sys	0m0.189s
+###<<<<<<<solo>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.062s
+user	0m0.020s
+sys	0m0.040s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.018s
+user	0m0.018s
+sys	0m0.000s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.029s
+user	0m0.025s
+sys	0m0.004s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+<<<<<<<10MB>>>>>>>
+
+real	0m1.171s
+user	0m1.165s
+sys	0m0.000s
+<<<<<<<100MB>>>>>>>
+
+real	0m11.842s
+user	0m11.815s
+sys	0m0.017s
+<<<<<<<1GB>>>>>>>
+
+real	1m53.381s
+user	1m53.015s
+sys	0m0.229s
+###<<<<<<<6>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.119s
+user	0m0.026s
+sys	0m0.060s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.088s
+user	0m0.029s
+sys	0m0.003s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.064s
+user	0m0.044s
+sys	0m0.004s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.282s
+user	0m0.255s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.480s
+user	0m2.685s
+sys	0m0.003s
+<<<<<<<100MB>>>>>>>
+
+real	0m34.230s
+user	0m24.546s
+sys	0m0.040s
+<<<<<<<1GB>>>>>>>
+
+real	5m31.317s
+user	3m55.063s
+sys	0m0.498s
+###<<<<<<<1>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.103s
+user	0m0.037s
+sys	0m0.046s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.072s
+user	0m0.024s
+sys	0m0.007s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.061s
+user	0m0.048s
+sys	0m0.003s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.327s
+user	0m0.259s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.267s
+user	0m2.525s
+sys	0m0.006s
+<<<<<<<100MB>>>>>>>
+
+real	0m33.117s
+user	0m24.123s
+sys	0m0.034s
+<<<<<<<1GB>>>>>>>
+
+real	5m34.571s
+user	3m57.857s
+sys	0m0.506s
+###<<<<<<<5>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.123s
+user	0m0.046s
+sys	0m0.039s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.048s
+user	0m0.028s
+sys	0m0.004s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.079s
+user	0m0.046s
+sys	0m0.007s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.474s
+user	0m0.263s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m2.962s
+user	0m2.380s
+sys	0m0.007s
+<<<<<<<100MB>>>>>>>
+
+real	0m36.107s
+user	0m25.696s
+sys	0m0.060s
+<<<<<<<1GB>>>>>>>
+
+real	5m38.164s
+user	4m3.730s
+sys	0m0.395s
+###<<<<<<<4>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.143s
+user	0m0.036s
+sys	0m0.049s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.056s
+user	0m0.019s
+sys	0m0.013s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.098s
+user	0m0.053s
+sys	0m0.000s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.289s
+user	0m0.256s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.127s
+user	0m2.297s
+sys	0m0.006s
+<<<<<<<100MB>>>>>>>
+
+real	0m33.828s
+user	0m23.891s
+sys	0m0.040s
+<<<<<<<1GB>>>>>>>
+
+real	5m40.635s
+user	4m8.851s
+sys	0m0.421s
+###<<<<<<<7>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.102s
+user	0m0.028s
+sys	0m0.059s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.034s
+user	0m0.026s
+sys	0m0.003s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.096s
+user	0m0.043s
+sys	0m0.007s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.386s
+user	0m0.266s
+sys	0m0.000s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.381s
+user	0m2.361s
+sys	0m0.010s
+<<<<<<<100MB>>>>>>>
+
+real	0m34.899s
+user	0m25.509s
+sys	0m0.072s
+<<<<<<<1GB>>>>>>>
+
+real	5m39.594s
+user	4m0.229s
+sys	0m0.610s
+###<<<<<<<3>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.103s
+user	0m0.036s
+sys	0m0.046s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.032s
+user	0m0.022s
+sys	0m0.003s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.088s
+user	0m0.048s
+sys	0m0.003s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.322s
+user	0m0.246s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.472s
+user	0m2.381s
+sys	0m0.007s
+<<<<<<<100MB>>>>>>>
+
+real	0m32.745s
+user	0m23.613s
+sys	0m0.066s
+<<<<<<<1GB>>>>>>>
+
+real	5m42.216s
+user	4m1.887s
+sys	0m0.549s
+###<<<<<<<8>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.126s
+user	0m0.034s
+sys	0m0.052s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.037s
+user	0m0.020s
+sys	0m0.010s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.072s
+user	0m0.050s
+sys	0m0.000s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.453s
+user	0m0.261s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.687s
+user	0m2.511s
+sys	0m0.013s
+<<<<<<<100MB>>>>>>>
+
+real	0m33.617s
+user	0m24.345s
+sys	0m0.027s
+<<<<<<<1GB>>>>>>>
+
+real	5m42.160s
+user	4m2.614s
+sys	0m0.544s
+###<<<<<<<2>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.105s
+user	0m0.022s
+sys	0m0.062s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.051s
+user	0m0.021s
+sys	0m0.010s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.069s
+user	0m0.048s
+sys	0m0.003s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.336s
+user	0m0.267s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.166s
+user	0m2.387s
+sys	0m0.016s
+<<<<<<<100MB>>>>>>>
+
+real	0m32.132s
+user	0m23.541s
+sys	0m0.078s
+<<<<<<<1GB>>>>>>>
+
+real	5m45.132s
+user	4m4.690s
+sys	0m0.443s
+###<<<<<<<10>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.137s
+user	0m0.034s
+sys	0m0.054s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.034s
+user	0m0.025s
+sys	0m0.004s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.072s
+user	0m0.042s
+sys	0m0.007s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.342s
+user	0m0.259s
+sys	0m0.000s
+<<<<<<<10MB>>>>>>>
+
+real	0m3.259s
+user	0m2.394s
+sys	0m0.013s
+<<<<<<<100MB>>>>>>>
+
+real	0m34.082s
+user	0m24.501s
+sys	0m0.098s
+<<<<<<<1GB>>>>>>>
+
+real	5m44.319s
+user	4m5.886s
+sys	0m0.531s
+###<<<<<<<9>>>>>>>###
+<<<<<<<1KB>>>>>>>
+
+real	0m0.148s
+user	0m0.034s
+sys	0m0.053s
+<<<<<<<10KB>>>>>>>
+
+real	0m0.054s
+user	0m0.025s
+sys	0m0.006s
+<<<<<<<100KB>>>>>>>
+
+real	0m0.091s
+user	0m0.042s
+sys	0m0.007s
+<<<<<<<1MB>>>>>>>
+
+real	0m0.430s
+user	0m0.274s
+sys	0m0.003s
+<<<<<<<10MB>>>>>>>
+
+real	0m4.003s
+user	0m2.529s
+sys	0m0.003s
+<<<<<<<100MB>>>>>>>
+
+real	0m33.770s
+user	0m23.493s
+sys	0m0.056s
+<<<<<<<1GB>>>>>>>
+
+real	5m45.438s
+user	4m6.236s
+sys	0m0.473s
